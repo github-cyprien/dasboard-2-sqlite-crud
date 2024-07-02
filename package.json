@@ -24,7 +24,7 @@
   "homepage": "https://github.com/github-cyprien/dasboard-2-sqlite-crud#readme",
   "node-red": {
     "nodes": {
-        "crud-node": "index.js"
+        "dasboard-2-sqlite-crud": "dasboard-2-sqlite-crud.js"
     }
 
   },  
