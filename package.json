@@ -27,5 +27,9 @@
         "crud-node": "index.js"
     }
 
+  },  
+  "dependencies": {
+    "node-red-node-sqlite": "^1.0.0",
+    "@flowfuse/node-red-dashboard": "^1.1.0"
   }  
 }
