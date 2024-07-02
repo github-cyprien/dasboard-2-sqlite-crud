@@ -1,2 +1,2 @@
-# dasboard-2-sqlite-crud
+# dashboard-2-sqlite-crud
 A Subflow for CRUD operations on SQL tables
