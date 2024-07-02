@@ -1,14 +1,14 @@
 {
-  "name": "dasboard-2-sqlite-crud",
+  "name": "dashboard-2-sqlite-crud",
   "version": "0.2.1",
   "description": "A Subflow for CRUD operations on SQL tables",
-  "main": "index.js",
+  "main": "dashboard-2-sqlite-crud.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github-cyprien/dasboard-2-sqlite-crud.git"
+    "url": "git+https://github.com/github-cyprien/dashboard-2-sqlite-crud.git"
   },
   "keywords": [
     "node-red",
@@ -19,12 +19,12 @@
   "author": "Cyprien ROUDET",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/github-cyprien/dasboard-2-sqlite-crud/issues"
+    "url": "https://github.com/github-cyprien/dashboard-2-sqlite-crud/issues"
   },
-  "homepage": "https://github.com/github-cyprien/dasboard-2-sqlite-crud#readme",
+  "homepage": "https://github.com/github-cyprien/dashboard-2-sqlite-crud#readme",
   "node-red": {
     "nodes": {
-        "dasboard-2-sqlite-crud": "dasboard-2-sqlite-crud.js"
+        "dashboard-2-sqlite-crud": "dashboard-2-sqlite-crud.js"
     }
 
   },  
