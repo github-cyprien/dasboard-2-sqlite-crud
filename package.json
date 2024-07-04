@@ -1,5 +1,5 @@
 {
-  "name": "@cyprien/node-red-dashboard-2-crud-sqlite",
+  "name": "@cyprien-roudet/node-red-dashboard-2-crud-sqlite",
   "version": "0.3.0",
   "description": "A Subflow for CRUD operations on SQL tables",
   "main": "node-red-dashboard-2-crud-sqlite.js",
